@@ -1,0 +1,21 @@
+Script started on Sun Oct 26 11:15:24 2025
+Restored session: Sun Oct 26 11:14:57 EET 2025
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                                                             ]7;file://Ersins-MacBook-Air.local/Users/ersinnedzhib/SEDO_Regular-Exam-1[0m[27m[24m[Jersinnedzhib@Ersins-MacBook-Air SEDO_Regular-Exam-1 % [K[?2004h[7mgit add .[27m
+[K[A[54C[27mg[27mi[27mt[27m [27ma[27md[27md[27m [27m.[1B[K[A[63C[?2004l[1B[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                                                             ]7;file://Ersins-MacBook-Air.local/Users/ersinnedzhib/SEDO_Regular-Exam-1[0m[27m[24m[Jersinnedzhib@Ersins-MacBook-Air SEDO_Regular-Exam-1 % [K[?2004h[7mgit commit -m "feat: add initial quote functionality"[27m
+[K[A[54C[27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27mm[27m [27m"[27mf[27me[27ma[27mt[27m:[27m [27ma[27md[27md[27m [27mi[27mn[27mi[27mt[27mi[27ma[27ml[27m [27mq[27mu[27mo[27mt[27me[27m [27mf[27mu[27mn[27mc[27mt[27mi[27mo[27mn[27ma[27ml[27mi[27mt[27my[27m"[1B[K[A[107C[?2004l[1B[feature/add-quotes f79d28c] feat: add initial quote functionality
+ Committer: Ersin Nedzhib <ersinnedzhib@Ersins-MacBook-Air.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 12 insertions(+), 5 deletions(-)
+ create mode 100644 .DS_Store
+ create mode 100644 devops_exam_log.txt
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                                                             ]7;file://Ersins-MacBook-Air.local/Users/ersinnedzhib/SEDO_Regular-Exam-1[0m[27m[24m[Jersinnedzhib@Ersins-MacBook-Air SEDO_Regular-Exam-1 % [K[?2004h[7mgit add .[27m[9D[27mg[27mi[27mt[27m [27ma[27md[27md[27m [27m     g  [7mgit add .[27m[9D[27mg[27mi[27mt[27m [27ma[27md[27md[27m [27m  
